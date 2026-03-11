@@ -10,8 +10,6 @@ The **VeinVeer X1** is an Arduino-based educational prototype that simulates the
 
 This project is perfect for learning about sensor integration, data visualization, and simulating real-world medical technology on a budget.
 
-![Concept Image](link-to-your-image-here.jpg) *(Replace with a photo of your built project)*
-
 
 ## Table of Contents
 
@@ -106,3 +104,18 @@ Connect the components as described in the table below. **Ensure you have common
 | **A4 (LCD D5)** | Data | LCD Pin 12 |
 | **A5 (LCD D6)** | Data | LCD Pin 13 |
 | **A0 (LCD D7)** | Data | LCD Pin 14 |
+
+
+## Contact
+
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
